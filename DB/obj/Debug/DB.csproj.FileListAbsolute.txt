@@ -60,3 +60,15 @@ C:\Users\anton.belenik\source\repos\DB\DB\bin\EntityFramework.dll
 C:\Users\anton.belenik\source\repos\DB\DB\bin\EntityFramework.SqlServer.dll
 C:\Users\anton.belenik\source\repos\DB\DB\bin\EntityFramework.xml
 C:\Users\anton.belenik\source\repos\DB\DB\bin\EntityFramework.SqlServer.xml
+D:\CourseWorkNew\DB\obj\Debug\DB.csprojAssemblyReference.cache
+D:\CourseWorkNew\DB\obj\Debug\DB.csproj.CoreCompileInputs.cache
+D:\CourseWorkNew\DB\bin\DB.dll.config
+D:\CourseWorkNew\DB\bin\DB.dll
+D:\CourseWorkNew\DB\bin\DB.pdb
+D:\CourseWorkNew\DB\bin\EntityFramework.dll
+D:\CourseWorkNew\DB\bin\EntityFramework.SqlServer.dll
+D:\CourseWorkNew\DB\bin\EntityFramework.xml
+D:\CourseWorkNew\DB\bin\EntityFramework.SqlServer.xml
+D:\CourseWorkNew\DB\obj\Debug\DB.csproj.CopyComplete
+D:\CourseWorkNew\DB\obj\Debug\DB.dll
+D:\CourseWorkNew\DB\obj\Debug\DB.pdb

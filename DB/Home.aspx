@@ -7,8 +7,8 @@
 <head runat="server">
     <title></title>
     <link href="css/bootstrap.css" rel="stylesheet" />
-    <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet"> 
-    <link href="https://fonts.googleapis.com/css?family=Bree+Serif" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet" /> 
+    <link href="https://fonts.googleapis.com/css?family=Bree+Serif" rel="stylesheet" /> 
     <style type="text/css">
         #Select1 {
             height: 15px;

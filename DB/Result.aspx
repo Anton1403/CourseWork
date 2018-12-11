@@ -6,7 +6,7 @@
 <head runat="server" id="dbd">
     <title></title>
     <link href="css/bootstrap.css" rel="stylesheet" />
-    <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet" />
     
     
     <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
@@ -111,7 +111,7 @@
                 <br />
             <br />
             </div>
-            <div class="table table-hover  row text-center justify-content-center" style="font-family: 'Quicksand', sans-serif; margin-bottom:120px;"
+            <div class="table table-hover  row text-center justify-content-center" style="font-family: 'Quicksand', sans-serif; margin-bottom:120px;">
             <asp:GridView  CssClass=" antonNextopacity antonOpacity antonTableHeader" onrowdatabound="CustomersGridView_RowDataBound"  ID="GridView1" runat="server" AutoGenerateColumns="False" DataKeyNames="EventID" DataSourceID="SqlDataSource1" style="width:650px">
                 <Columns>
                     <asp:BoundField DataField="EventID" HeaderText="EventID" InsertVisible="False" ReadOnly="True" SortExpression="EventID" />
@@ -122,6 +122,7 @@
             </asp:GridView>
             </div>
         </div>
+        </form>
         </div>
     <footer class="page-footer font-small blue fixed-bottom bg-dark";>
         <div class="footer-copyright text-center py-3" style="color:white;">
@@ -129,6 +130,6 @@
     SPG.com
         </div>
     </footer>
-    </form>
+    
     </body>
 </html>
